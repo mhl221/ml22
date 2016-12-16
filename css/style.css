@@ -1,0 +1,34 @@
+*{margin: 0;padding: 0;}
+.big{
+	font-size: 24px;
+	font-weight: bold;
+	color: blue;
+	width: 100%;
+	height: auto;
+	margin-bottom: 10px;
+	border-bottom: 2px solid #666;
+}
+.cia{
+	font-size: 16px;
+	font-weight: normal;
+	color: #ccc;
+	margin-left: 10px;
+}
+.nav{
+	font-size: 16px;
+	font-weight: normal;
+	color: blue;
+	margin-left: 10px;
+	cursor: pointer;
+}
+
+.col{color: #ccc;
+}
+.con{width: 80%;
+height: auto;
+	border-bottom:2px solid #666 ;
+	margin: 30px auto;
+}
+.conno{margin-top: -20px;}
+.mess{width: 100%;
+height: 100px;}
